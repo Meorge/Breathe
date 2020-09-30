@@ -1,0 +1,3 @@
+[submodule "Assets/DOTweenShapesExtensions"]
+	path = Assets/DOTweenShapesExtensions
+	url = git@github.com:Meorge/DOTweenShapesExtensions.git
